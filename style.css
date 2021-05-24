@@ -117,7 +117,7 @@ dt {
     border-radius: 50%;
     background: url("./resized_image.jpg") no-repeat;
     background-size: 200px 200px;
-    background-position-x: 10px;
+    background-position-x: 2px;
     /* border: 3px solid #585858; */
 }
 
